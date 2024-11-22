@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DusB70
+- 👀 I’m interested in ...Front end developing
+- 🌱 I’m currently learning ... ICT 
+- 📫 How to reach me ... thanushanga@gmail.com
