@@ -12,7 +12,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **Rajarata University of Sri Lanka**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Front-End devloping and networking**
 
 - 👨‍💻 All of my projects are available at <a href=""><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
 
